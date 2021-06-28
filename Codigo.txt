@@ -1,0 +1,8 @@
+int a = 20;
+int c = 5;
+DO
+a = 10 * b;
+c = 20 + a
+ENDDO
+WHILE ( int x == 18)
+ENDWHILE

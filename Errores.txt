@@ -1,0 +1,2 @@
+Linea  Error  
+4     Variable ;b no declarada  
